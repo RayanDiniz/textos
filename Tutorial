@@ -1,0 +1,4 @@
+WAM Service
+	wam mode = INTERNET
+	WAM_Conn_ Type = Routing
+	WAM_Vlan_Id = 

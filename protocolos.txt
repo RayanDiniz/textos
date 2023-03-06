@@ -1,0 +1,68 @@
+SEM CONEXÃO LINK LOSS
+- Cliente sem conexão;
+- Feito reinicialização dos equipamentos porém problema persiste;
+- Verificado Led Los Piscando no modem de fibra após envio de vídeo pelo cliente;
+- Verificado cordão óptico e conector sem danos ou folga;
+- Cliente ciente da taxa de R$ 100,00 caso seja identificado dano na fibra na parte interna do ponto;
+
+- Contato: []
+
+---------------------------------------------------------------------
+LENTIDÃO
+- Cliente informa lentidão.
+- Feito testes pela rede 5G da ONT e inicialmente estava batendo 71Mbps de Download e 17MB.
+- Foi solicitado que fizesse ao lado do roteador Cliente relatou que deu do mesmo jeito.
+- Foi solicitado que fizesse os teste perot e longe para verificar. Cliente já havia feito o teste antes dessa maneira e relatou que dava 344Mbps a 380Mbps em seus dispositivos e ao longe 199Mbps a 270Mbps. Agora o perto tá 133Mbps e longe tá 75Mbps
+- Após feito alguns ajustes nas frenquências e canais de rede houve uma melhora no uploud de 50Mbps mas 80Mbps de download.
+- No WinBox foi registrado pico de 170Mbps de Download e 50Mbps de upload.
+- Foi identificado que o cliente utilizava outros roteadores auxiliares, e foi solicitado que desligasse os mesmos par afazer o teste e identificar possivél interferencia de sinal entre eles
+- Foram feitos dicversos testes com mudanças de frequências e canais com o cliente chegando a identificar pico de 280Mbps de download.
+- Cliente precisou se ausentar informa que retornará contato para mais verificações.
+
+Contato: [] 
+---------------------------------------------------------------------	
+PON PISCANDO
+- Cliente sem conexão;
+- Feito reinicialização dos equipamentos porém problema persiste;
+- Verificado Led Pon Piscando no roteador após envio de vídeo pelo cliente;
+- Verificado cordão óptico e conector sem danos ou folga;
+- Verificado cabo da ONU para Roteador sem folga e bem conectado;
+- Cliente ciente da taxa de R$ 100,00 caso seja identificado dano na fibra na parte interna do ponto;
+
+Contato: []
+---------------------------------------------------------------------
+BAIXA POTÊNCIA
+- Cliente com baixa potência de sinal;
+- Feito reinicialização dos equipamentos porém problema persiste;
+- Verificado cordão óptico e conector sem danos ou folga;
+- A extensão do cordão óptico sem dobras ou atenuação.
+- Potência: 
+
+- Contato:
+
+---------------------------------------------------------------------
+FINANCEIRO - COMPROVANTE
+- Cliente em contato nos enviou comprovante de pagamento após o fim do expediente financeiro:
+- Valor dos comprovante: R$ 103,65 referentes a data de vencimento 10/11/22.
+- Cliente estava Cancelado por inadimplência, realizada a ativação temporária.
+- Cliente ciente de entrar em contato com o setor financeiro em horário comercial.
+- Contato: [] 
+---------------------------------------------------------------------
+MUDANÇA DE PONTO INTERNO
+- Cliente solicitou mudança de ponto interno.
+- Cliente ciente da taxa de R$ 100,00.
+
+Contato: []
+---------------------------------------------------------------------
+
+Ont autorizada e rede wifi configurada. Potência: -25.37
+
+
+rsantosfilho@elointernet.com.br
+sbasilio@biologia.elointernet.com.br
+SBSS2017
+
+
+
+Este plano acesso a HBO Maxx, DIRECTV GO, Suer Comics, Toca do Livro e MUMO
+Posso ta lhe enviando os tutorias em PDF para configurar.

@@ -1,0 +1,153 @@
+Nome: glauber
+Motivo: Sem conexão
+CPF: 48272981300
+Numero: 98991303480
+
+
+991744847
+
+Bom dia! 
+Bem-vindo à Elo Internet. 
+
+Estamos passando por um problema geral em nosso link principal.
+Uma manobra foi realizada pelo nosso setor técnico avançado para retorno da conexão.
+
+Peço que verifique se houve de fato retorno deste sinal, por favor.
+Lembrando que a normalização total esta prevista para as 13hs. Lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato com nosso suporte técnico, na opção 3.
+Não esqueça de avaliar nosso atendimento.
+Tenha uma bom dia 🤝!
+
+
+rsantosfilho@elointernet.com.br
+sbasilio@biologia.elointernet.com.br
+SBSS2017
+
+
+
+Este plano acesso a HBO Maxx, DIRECTV GO, Suer Comics, Toca do Livro e MUMO
+Posso ta lhe enviando os tutorias em PDF para configurar.
+
+
+elo#2023!
+
+
+99981310533
+
+LDF17022021
+Rotedores INTELBRAS
+	elosuporte1996
+	elointernet1996
+	elo1996
+	elo2021
+Roteadores FIBERHOMER
+	%0|F?H@f!berhO3e
+Roteadores TP-Link
+	admin
+
+
+webmail.elointernet.com.br
+
+
+rayan@elointernet.com.br
+suporte#2022!
+suporte#2020!
+suporte
+suporte#2021!
+--------------------------------------------------------------
+CONFIGURAÇÕES WinBox
+*Raposa Araçagy - CAR: 10.100.100.2
+*Raposa Atlantic - RAT: 10.100.100.4	
+Rio Anil Shopping: 192.168.110.16
+São Luís Shopping: 192.168.110.14
+*RT AUTHCORE: 10.100.100.3
+*Pátio Norte: 10.0.13.230
+*CORE: 10.254.0.254
+*Presidente Dutra: 177.54.141.255 
+*Dom Pedro: 10.15.192.110
+
+Suporte:
+Switch gerenciáveis do rio anil:
+Agora podemos saber se o cabo que atende  o ponto do cliente está desconectado, além de consultar a vlan.
+Esse diagnóstico rápido evita procedimentos desnecessários.
+
+Rack 01 [192.168.110.191] -- User: suporte / Senha: sup@2022
+Rack 02 [192.168.110.192] -- User: suporte / Senha: sup@2022
+Rack 03 [192.168.110.193] -- User: suporte / Senha: sup@2022
+Rack 04 [192.168.110.194] -- User: suporte / Senha: sup@2022
+Rack 06 [192.168.110.196] -- User: suporte / Senha: sup#21!
+Rack 07 [192.168.110.197] -- User: suporte / Senha: sup@2022
+
+Qualquer alteração de porta, registra no quadro aviso do cliente e edita a informação na tabela.
+https://docs.google.com/spreadsheets/d/1TtDOsjvEJI_InDdrGJSTo8bPxHoIBrRoIDF3RUn_1XY/edit#gid=0
+Nosso usuário é restrito, caso precisem de  alguma alteração nas configurações o CDIT deve ser consultado.
+------------------------------------------------------------------------------
+
+
+Delta 
+    Marcos e Fransisco
+Beta
+	Icaro e Lael
+Epsolon 
+	Marcelo e Edson
+
+
+
+
+OS: 52416
+Técnico: Marcelo Chaves
+Retirada de equipamento
+
+
+
+
+OK! iremos conectar nesse modem um roteador de tecnologia dual band
+RD
+
+Joao
+11:10
+Com isso, vai roda o 500 megas de boa?
+Joao
+Rayan Diniz
+11:15
+na rede 5G sim na rede 2.4 dependendo do dispositivo ele pode bater até 300mbps
+RD
+
+Joao
+11:16
+E como faço para mudar para 5g?
+Joao
+Rayan Diniz
+11:17
+o sinal chega primeiro a esse modem que converte com sua velocidade contratada. O roteador pegara a conexão e distribuirá para os dispositivos, tem dispositivos que são mais limitados e receberão obviamente a velocidade que eles suportam
+RD
+Rayan Diniz
+11:19
+Um roteador dual band significa que ele possui as duas bandas de sinal (rede 2.4Ghz e rede 5Ghz). Em sua casa aparecerá duas redes com mesmo nome só que uma delas com 5G no final
+RD
+Rayan Diniz
+11:20
+Se seu dispositivo tiver a tecnocnologia Wifi 5Ghz, ele detectará essa rede
+RD
+Rayan Diniz
+11:20
+Caso o dispositivo não tenha ele não detectará apenas a 2.4
+RD
+
+Joao
+11:21
+Entendi
+Joao
+Rayan Diniz
+11:29
+Você também pode conectar dispositivos como computadores e TVs por cabo do roteador nas portas LANs para o equipamento, mas da mesma forma como na conexão sem fio seu computador por exemplo pode ser limitado a uma certa velocidade
+RD
+Rayan Diniz
+11:30
+Passadas informações fica alguma duvida ou ajudo em algo mais no momento?
+RD
+
+Joao
+11:30
+Nenhuma dúvida
+Joao
+

@@ -1,0 +1,22 @@
+"Até a última sexta feira 23/Dez tudo estava ok. Alguém foi ate o local e fez alguma configuração onde passou a estar em NAT com IP 100.xxx...
+Quem autêntica o PPPoE é nosso servidor usando as credenciais:
+Usuário: salesadv
+Senha: salesadv09
+Topología:
+
+Modem Elo >
+Unix BSD (auténtica PPPoE) >
+Rede local"
+
+Tentamos conectar no IP fornecido mas da "conexão recusada" o que significa que quem está autenticando o PPPoE não é nosso servidor e sim o modem GPON da Elo
+Topología:
+
+Modem Elo > Ligado ao
+Unix BSD
+(que faz a autenticação PPPoE, DHCP, etc)
+> Rede local...
+Se vocês colocarem o modem GPON em modo Bridge, após 1 minuto o servidor vai tentar autenticar pppoe usando as credenciais:
+Usuário: salesadv
+Senha: salesadv09
+
+

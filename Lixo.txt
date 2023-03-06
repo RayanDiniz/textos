@@ -1,0 +1,209 @@
+11 9 FHTT9aa782d8 fiberhome fiberhome -- 0000-00-00 00:00:00 AN5506-04-FA
+
+2816
+
+Certo! Podemos enviar um técnico para testar nossa rede. Porém o deslocamento dele pode ser passivo de um taxa de R$ 60,00 caso não seja identificado nenhum problema em nossa rede. Tudo bem? Ele fará os testes e corrigirá os problemas caso haja.
+
+Houve um rompimento na sua região e a equipe já está se deslocando para solucionar. Não temos um prazo definitivo mas o prazo inicial é de até 4h
+
+Olha! Abri um protocolo de atendimento informando a baixa taxa de upload. Fizemos algumas manobras hoje na rede e eu não sei te precisar até que ponto isso lhe afetou pode ser só coincidência. Continue verificando e monitorando até amanhã caso persista o problema, volte a entrar em contato conosco para acionar o protocolo. ok?
+
+Estamos efetuando um reparo em sua região.
+A informação que temos é que resolverão em 2h.
+
+*Me informe nome completo ou CPF do assinante por gentileza.*
+Esta central não reproduz áudios, peço que esteja digitando estas informações. Por gentileza. 
+Consegue enviar a localização fixa do ponto e/ou informar pontos de referência? 
+Passadas informações fica alguma duvida ou ajudo em algo mais no momento?  
+
+Notamos um padrão de queda na Av Jerônimo de Albuquerque e a equipe já está tetando resolver o problema.
+Prazo para resolução até amanhã pela manhã.
+
+OS:51882
+EQUIPE:MARCELO
+EQUIPAMENTO RETIRADO
+
+192.168.100.1 da casa para o cliente para elo
+Meu turno estar finalizando agora.  Este atendimento será encerrado. Caso necessite, lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato conosco. Tenha uma boa tarde
+
+Meu turno estar finalizando agora. Este atendimento será transferido a outro agente que dará continuidade ao mesmo.
+
+27628 - ANA ALICE 5598992202298
+Sem conexão. Realizado reset e reiniciados ambos equipamentos, sem sucesso, login off em gerenet;
+_Identificado led LOS vermelha na ONU em vídeo encaminhado pelo cliente. Verificado que não há danos, folgas ou dobras em cordão óptico;
+_Reparo agendando para sábado (22/05) pela manhã;
+_Ciente da passividade de taxa de R$ 100,00 em caso de dano interno;
+_Contato: 5598982010188 [Veridiana de Santana].
+
+Peço que me envie um breve video que dê de visualizar o funcionamento da luzes do modem de fibra, equipamento menor sem antenas da marca Fiberhome 
+
+Atrás deste equipamento menor com a led  do LOS piscando vermelha, ha um cordão amarelo mais fino conectado atrás, por onde passa nossa fibra. Verifique se na extensão do mesmo há algum dano, dobra ou folga. Veja também se o conector azul dele esta bem encaixado. É só empurrar com cuidado o mesmo contra o equipamento para ter a certeza de que não esta folgado.
+
+Para ultimo teste peço que com o modem de fibra (equipamento menor, sem antenas da marca Tplink) desligado da tomada peço que desconecte o conector verde (este do cordão amarelo mais fino) com cuidado e reconecte novamente empurrando levemente até ouvir um "clic"
+
+Entendo. Neste caso será de fato encaminhar uma equipe técnica para reparo sra. Quando a led LOS fica ligada piscando vermelho, indica perda de comunicação com a fibra. Temos basicamente 2 causas: ou o conector verde esta mau conectado (já descartamos esta), ou é dano à fibra, podendo este ser interno (dentro da residência) ou externo (na rua). 
+
+Lembrando que caso a equipe identifique que o dano tenha sido ocasionado internamente, na residência do cliente, há passividade de taxa de R$ 100,00 já que a mesma fica sob cuidado deste. Do contrário, sendo um problema externo, nos cabos do lado de fora da residência o reparo é gratuito. 
+
+Certo.
+Neste caso, agradeço desde já seu contato e atenção. Lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato com nosso suporte técnico, na opção 3. 
+Tenha um bom dia 😄🤝!
+
+Disponha, agradeço igualmente seu contato e atenção. Lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato conosco. 
+
+Tenha um bom dia 😄🤝!
+ 
+88983090AMS
+15062001
+15062001
+ 
+Constatei que já foi atendido, essa sessão será encerrada.  Lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato conosco. Tenha um bom dia.
+
+Acredito que esteja ocupado no momento. Este atendimento será encerrado. 
+Lembre-se sempre que qualquer dúvida ou problema é só estar retornando contato conosco. Tenha uma boa tarde.
+
+Cliente solicitou alteração da senha da rede wi-fi. Confirmados dados e realizada alteração através do acesso remoto. 
+_Contato: 5598984216438 [Douglas Cigano]
+
+Cliente solicitou segunda 2ª via de boleto. Confirmados dados e repassadas orientações para acesso através do site e aplicativo da ELO;
+_Contato: 5598988892029 [24575].
+
+Cliente informou lentidão. Atualizado firmware, alterados canais e reiniciado roteador remotamente. Cliente ficou de manter em observação;
+_Contato: 5599991734482 [Anderson Sousa].
+
+Roteador desconfigurado. Confirmados dados e realizada orientação na configuração do equipamento, com sucesso. Conexão restabelecida;
+_Acesso remoto habilitado na porta 6991, senha de acesso: elosuporte1996;
+_Contato: 
+
+Cliente sem conexão. Onu com status "DYINGGASP" em unm. Solicitada verificação de equipamentos porém a mesma informou não estar no local;
+_Ciente da necessidade de verificações e testes para encaminhamento correto de uma equipe ou até mesmo para resolução remota do problema;
+_Cliente deixou de responder, após algum tempo atendimento foi encerrado por falta de comunicação. Contato: 5598999066259 [25069 ----Nina]
+
+Cliente não retornou para mais informações/procedimentos. Protocolo encerrado devido tempo decorrido desde abertura.
+
+Assim que alterada senha todos os dispositivos irão se desconcertar para que reconecte-os com a nova senha, posso prosseguir? 
+------------------------------------------------
+Boa noite nosso setor financeiro não estar funcinando no momento, caso precise retirar 
+o seu boleto acesse a nossa central do assinante link abaixo.
+
+--------------------------------------------------
+*Para solicitação de 2ª via de boletos e outras informações, baixe nosso app:*
+
+Play Store ( Android ): https://play.google.com/store/apps/details?id=br.com.gerenet.app.elo
+
+APP Store ( IOS ): https://apps.apple.com/br/app/elo-internet/id1534951958
+
+*Ou ainda através do nosso site:* https://gerenet.elointernet.com.br/sac2/
+
+*Login:* 91411890353
+*Senha:* adenilton
+
+Antes de estar efetuando pagamento das faturas, lembre-se sempre de confirmar os dados do assinante, data de vencimento e valor do mesma.
+------------------------------------------------
+Atualmente se tratando de distribuição inteligente de rede wi-fi o recomendado é a instalação de um Access Point ou equipamento com sistema unifi que gerencia múltiplos APs WiFi. Atualmente não trabalhamos com estes tipos de equipamento, mas caso tenha um técnico particular seria o ideal uma vez que será necessária avaliação da estrutura do local para melhor ponto de instalação, além da configuração do equipamento para que ele possa realizar a gerencia da rede wi-fi da melhor forma possível. 
+------------------------------------------------
+Este roteador é dual-band, ou seja, ele atua com duas frequencias, a 2.4 Ghz e a 5Ghz, uma de nome"VIDEIRA VERDADEIRA" e outra "VIDEIRA VERDADEIRA_5G", respectivamente. A rede 2.4Ghz é uma tecnologia mais antiga por isso sofre com limitações e interferências, nesta rede o máximo de megas suportados em um teste de velocidade é 45 ~ 50Mbps. Já na 5G conseguirá realizar os testes batendo de acordo com a contratada. Como na rede wi-fi há ainda compartilhamento de banda o ideal são testes via cabo de rede direto.
+
+Antes de estar efetuando pagamento, lembre-se sempre de confirmar nome completo, valor e vencimento da fatura. 8hs demanda de tempo estrutura horarios permitido pela 
+------------------------------------------------
+Configuração Intelbras: 
+Ok,  além deste celular que estamos nos comunicando há outro?     
+Como o roteador deste ponto esta desconfigurado irei lhe auxiliar no passo a passo para configuração. É bem simples.  O ideal é que seja feito em outro já que lhe auxiliarei.
+Peço que deixe os dados móveis desativados neste outro celular e conecte ele à rede wi-fi de nome INTELBRAS que aparece. É uma rede aberta por isso não solicita senha.
+Após conectar à mesma, peço que abra o navegador deste celular e na barra  de endereços da página digite a numeração de ip: 10.0.0.1 . Como no exemplo abaixo. 
+Abrirá uma pagina de configuração rápida da Intelbras, só clicar em iniciar.
+Pedirá o tipo de conexão, escolha PPPoE. Abaixo solicitará usuário e senha.
+*Usuário do provedor:* fernandods
+*Senha do provedor:* fernandods02	      
+Coloque tudo minúsculo
+Na próxima etaa aparece as configurações da rede wi-fi. No primeiro campo, onde tem o nome INTELBRAS é só clicar em cima, apagar e escolher o nome da rede wi-fi que deseja (utilize apenas letras e número, evite espaços acentuações e caracteres especiais).
+No segundo campo abaixo escolha a senha que deseja para esta rede wi-fi (novamente apenas letras e números)
+No terceiro e último campo é a senha de acesso ao roteador, coloque a nossa padrão: elosuporte1996 (tudo minúsculo).
+------------------------------------------------
+
+Verifiquei as informações de venda, neste caso o valor repassado foi pela instalação e compra do equipamento. Todo roteador possui uma certa limitação de alcance da cobertura do sinal da rede wi-fi e por isso alguns ambientes mais amplos podem de fato necessitar de um repetidor pra suprir esta demanda. Lembrando que barreiras física como paredes e móveis impactam também na intensidade do sinal  
+------------------------------------------------
+Entendo, pelo que verifiquei o problema costuma ocorrera noite, peço que nos retorne contato no momento deste para que possamos realizar uma verificação mais detalhada na sua conexão. Se possível quando estiver ocorrendo o mesmo, faça testes em outros dispositivos (além desta tv) como em um celular ou notebook coloque vídeo pesados pra carregar no YouTube, por exemplo    
+
+Já que os servidores dos TvBox ficam em outros países e em horários de picos quando há várias pessoas acessando o mesmo servidor é esperado travar por conta do alto números de acessos. Então sempre é bom verificar e testar a conexão em outros dispositivos.   
+  
+------------------------------------------------
+Bom dia!
+Estamos passando por uma manobra corretiva emergencial em nossa rede, por isso algumas localidades estão sendo afetadas.
+Regiões afetadas: Cohab, Cohama, São Cristóvão, Turu, Itapiracó, Parque Vitória, Angelim e adjacências.
+Iniciará agora as 9:00hs e deve estar sendo concluída dentro de 30 minutos.  
+
+Manobra concluída!
+Peço que verifique o retorno desta conexão. Caso este não ocorra automaticamente desligue seus equipamentos da tomada por cerca de 30 segundos e religue novamente logo após. 
+------------------------------------------------
+
+Não sra. A taxa só é cobrada caso o dano seja interno, dentro da residência do cliente, já que este fica responsável pela estrutura interna. Por isso pedi que verificasse se havia algum dano ao cordão de fibra amarelo.          
+  
+Sendo dano na estrutura externa, fora da residência (na rua) o reparo é gratuito  
+
+------------------------------------------------
+
+Tutorial configuração de roteador
+Todo procedimento deverá ser realizado com outro celular com dados moveis desativados
+
+1-Conecte-se o seu celular na rede INTELBRAS
+
+2-abra o navegador de internet Google Chrome
+em seguida acesse o endereço http://10.0.0.1
+
+3-clique em Iniciar e tipo de conexão selecione PPPoE em usuário do provedor coloque *mfssousam* e senha do provedor coloque *mfssousam04* tudo minuscular e sem espaço
+
+4-No campo configuração da rede Wi-Fi ,troque o nome INTELBRAS para qualquer nome da
+sua preferencia, no campo senha da rede wi-fi coloque uma senha para sua rede.
+
+5 No campo senha do roteador coloque *elosuporte1996* e salve. 
+
+
+Tipo de Conexão: PPPoE  
+Nome de Usuário: camilarj
+Senha: camilarj06
+------------------------------------------------  
+
+Para enviar localização é bem  simples. Caso esteja no local basta ativar o GPS do celular.
+Depois, clique no item do "clip" para anexar informação e escolha o item "Localização".  
+
+<b>O.S:</b> 46658 
+<b>Data:</b> 03/02/2022
+<b>Equipe:</b> DLR TELECOM 
+<b>Item:</b> 120mts de cabo drop
+<b>Obs:</b> instação concluído. Conexão ok.
+------------------------------------------------
+<b>O.S:</b> 46658 
+<b>Data:</b> 03/02/2022
+<b>Equipe:</b> DLR TELECOM 
+<b>Item:</b> 120mts de cabo drop
+<b>Obs:</b> Reparo concluído. Conexão ok.
+------------------------------------------------
+Irei verificar. Durante verificações o sinal cairá por alguns segundos. Por gentileza, mantenha equipamentos ligados, jamais os desligue durante este processo. Assim que concluído, lhe aviso.
+------------------------------------------------
+
+Agradeço as informações. Em verificação a equipe técnica repassou laudo de inviabilidade, devido as caixas de atendimento ficarem muito distantes deste ponto. De modo que, infelizmente, não será possível prosseguir com instalação neste ponto. 
+  
+elosuporte1996  2022-05-14 00:10:38
+
+UNM2000
+suporte
+suporte#2020!
+
+Neste contato falo com sr/sra. xxxxxxx?
+Recebemos seu contato como indicação de um amigo seu que é nosso cliente.
+Gostaria de saber se tem interesse em contratar internet banda larga conosco. Abaixo segue nossos atuais planos ofertados:
+
+Ok! Agora preciso confirmar seu endereço para verificação de viabilidade de atendimento. Fica na Rua  da Pirapema - Raposa, certo?! Poderia repassar este completo? 
+
+Grata! Confirmada viabilidade, aguarde mais um momento que irei lhe tranferir ao setor responsável pela abertura do contrato. Agradeço desde já sua atenção.
+
+Poderia mandar em texto por gentileza? Não reproduzimos áudios nessa estacão.
+
+16607 - EDYARA CHRISTINE DE CARVALHO FERREIRA 
+Endereço: R. 12, CS 27, RES. ENSEADA DOS VENTOS
+ARAÇAGY - São José de Ribamar - MA
+LOS, para quando podemos agendar?
+
+
+
